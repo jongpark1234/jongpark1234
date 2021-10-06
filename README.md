@@ -15,7 +15,7 @@
   
 ### My inexperienced languages
 ![C#](https://img.shields.io/badge/c%23-9676ce.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=java&logoColor=red)
+[![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=java&logoColor=red)](https://www.java.com/en/)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### My social media
