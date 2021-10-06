@@ -2,13 +2,16 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=40ff00&height=300&section=header&text=JongPark&desc=Kermit%20that%20commits&fontSize=80&animation=twinkling&descAlignY=30)
  
-  <img width=50% src="https://github-readme-stats.vercel.app/api?username=jongpark1234" /><img width=50%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongpark1234&layout=compact" />
+<img width=50% src="https://github-readme-stats.vercel.app/api?username=jongpark1234" /><img width=50%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongpark1234&layout=compact" />
  
 ## My Main Language
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffff00) 
  
 ### My sub Languages
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-6d94c7.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-235592.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-6d94c7.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-235592.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
 ### My inexperienced languages
 ![C#](https://img.shields.io/badge/c%23-9676ce.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
