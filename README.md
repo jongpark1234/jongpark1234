@@ -9,14 +9,8 @@
  
 ### My Sub Languages
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/ko/)
-![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=)
 ![C](https://img.shields.io/badge/c-6d94c7.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-235592.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  
-### My Inexperienced Languages
-![C#](https://img.shields.io/badge/c%23-9676ce.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-[![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=java&logoColor=red)](https://www.java.com/en/)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### My Social Medias
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
