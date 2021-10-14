@@ -1,6 +1,6 @@
 <div align = center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=40ff00&height=300&section=header&text=JongPark&desc=Similar%20Developer&fontSize=80&animation=twinkling&descAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=40ff00&height=300&section=header&text=JongPark&desc=I%20want%2to%20registered%20to%20dgit&fontSize=80&animation=twinkling&descAlignY=30)
  
 <img width=50% src="https://github-readme-stats.vercel.app/api?username=jongpark1234" /><img width=50%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongpark1234&layout=compact" />
  
