@@ -1,6 +1,7 @@
 <div align = center>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=40ff00&height=300&section=header&text=JongPark&desc=Hi&fontSize=80&animation=twinkling&descAlignY=30)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jongpark1234)](https://github.com/ryo-ma/github-profile-trophy)
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jongpark1234)
 
   
