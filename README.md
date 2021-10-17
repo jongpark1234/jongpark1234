@@ -1,7 +1,7 @@
 <div align = center>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=jongpark1234&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-<img width=42% src="https://github-readme-stats.vercel.app/api?username=jongpark1234&theme=discord_old_blurple" /><img width=50%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongpark1234&layout=compact&theme=discord_old_blurple" />
+<img width=100% src="https://github-readme-stats.vercel.app/api?username=jongpark1234&theme=discord_old_blurple" /><img width=100%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongpark1234&layout=compact&theme=discord_old_blurple" />
 [![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jongpark1234)](https://solved.ac/profile/jongpark1234)
  
 ## My Main Language
