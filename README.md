@@ -1,8 +1,15 @@
 <div align = center>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=jongpark1234&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-<img width=60% src="https://github-readme-stats.vercel.app/api?username=jongpark1234&theme=discord_old_blurple" /><img width=60%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongpark1234&layout=compact&theme=discord_old_blurple" />
-[![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jongpark1234)](https://solved.ac/profile/jongpark1234)
+
+<img width=70% src="https://github-readme-stats.vercel.app/api?username=jongpark1234&theme=discord_old_blurple" />
+  
+<img width=70% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongpark1234&layout=compact&theme=discord_old_blurple" />
+  
+<img width=70% src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jongpark1234">
+                                                                   
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jongpark1234)
+
  
 ## My Main Language
 [![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffff00)](https://www.python.org/)
