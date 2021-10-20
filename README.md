@@ -1,6 +1,6 @@
 <div align = center>
   
-# 📊My tatistics
+# 📊My Statistics
 <img width=70% src="https://github-profile-trophy.vercel.app/?username=jongpark1234&theme=discord">
 
 <img width=70% src="https://github-readme-stats.vercel.app/api?username=jongpark1234&theme=discord_old_blurple" />
