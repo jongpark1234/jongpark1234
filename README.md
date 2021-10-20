@@ -1,6 +1,6 @@
 <div align = center>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=jongpark1234&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+<img width=70% src="https://github-profile-trophy.vercel.app/?username=jongpark1234&theme=discord">
 
 <img width=70% src="https://github-readme-stats.vercel.app/api?username=jongpark1234&theme=discord_old_blurple" />
   
@@ -8,7 +8,7 @@
   
 <img width=70% src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jongpark1234">
                                                                    
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jongpark1234)
+<img width=70% src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jongpark1234">
 
  
 ## My Main Language
