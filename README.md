@@ -8,9 +8,9 @@
   
 <img width=70% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongpark1234&layout=compact&theme=discord_old_blurple" />
   
-<img width=70% src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jongpark1234">
+[<img width=70% src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jongpark1234">](https://solved.ac/profile/jongpark1234)
                                                                    
-<img width=70% src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jongpark1234">
+[<img width=70% src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jongpark1234">](https://www.acmicpc.net/user/jongpark1234)
 
  
 ## My Main Language
