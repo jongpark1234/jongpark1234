@@ -15,9 +15,9 @@
 [![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffff00)](https://www.python.org/)
  
 ### My Sub Languages
-[![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/ko/)
-[![C](https://img.shields.io/badge/c-6d94c7.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/)
-[![C++](https://img.shields.io/badge/c++-235592.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/)
+[![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=green)](https://nodejs.org/ko/)
+[![C](https://img.shields.io/badge/c-000000.svg?style=for-the-badge&logo=c&logoColor=6d94c7)](https://en.cppreference.com/w/)
+[![C++](https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=235592)](https://en.cppreference.com/w/)
 
 ### My Social Medias
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
