@@ -2,9 +2,9 @@
   
 # 📊My Statistics
 <div align = center>
-<img width=70% src="https://github-profile-trophy.vercel.app/?username=jongpark1234&theme=discord">
+<img width=70% src="https://github-profile-trophy.vercel.app/?username=jongpark1234&theme=buddhism">
 
-<img width=70% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongpark1234&layout=compact&theme=discord_old_blurple" />
+<img width=70% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongpark1234&layout=compact&theme=great-gatsby" />
   
 [<img width=70% src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jongpark1234">](https://solved.ac/profile/jongpark1234)
                                                                    
