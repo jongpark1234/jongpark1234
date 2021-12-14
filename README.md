@@ -2,7 +2,7 @@
   
 # 📊My Statistics
 <div align = center>
-<img width=70% src="https://github-profile-trophy.vercel.app/?username=jongpark1234&theme=buddhism">
+<img width=70% src="https://github-profile-trophy.vercel.app/?username=jongpark1234">
 
 <img width=70% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongpark1234&layout=compact&theme=great-gatsby" />
   
