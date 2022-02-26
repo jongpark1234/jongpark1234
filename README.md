@@ -11,7 +11,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jongpark1234)](https://solved.ac/jongpark1234)
 
-Notion Link : https://www.notion.so/Baekjoon-Online-Judge-ac988720e36f4c87afb16a14ff4c3b76
+<img width=70%>[![Notion](https://www.teacherville.co.kr/repository_data/ssam/2022/01/18/8961fc0e-7077-4d32-b29b-52aeebf43dde.jpg)](https://www.notion.so/Baekjoon-Online-Judge-ac988720e36f4c87afb16a14ff4c3b76)
 
 ## My Stacks
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
