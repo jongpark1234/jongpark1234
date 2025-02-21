@@ -6,7 +6,7 @@
 
 <img width=70% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongpark1234&layout=compact" />
 
-<img width=70%>[![Notion](https://www.teacherville.co.kr/repository_data/ssam/2022/01/18/8961fc0e-7077-4d32-b29b-52aeebf43dde.jpg)](https://www.notion.so/Baekjoon-Online-Judge-ac988720e36f4c87afb16a14ff4c3b76)
+<img width=70%>[![Notion](https://www.teacherville.co.kr/repository_data/ssam/2022/01/18/8961fc0e-7077-4d32-b29b-52aeebf43dde.jpg)](https://www.notion.so/jongpark1234/0aca71e51e624a4d93a08448a337248e)
 
 ## My Stacks
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
